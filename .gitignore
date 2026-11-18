@@ -1,0 +1,14 @@
+# Temporales y copias
+*.tmp
+*.bak
+
+#Logs
+*.log
+logs/
+
+#Secretos
+.env
+
+#Sistema
+Thumb.db
+
