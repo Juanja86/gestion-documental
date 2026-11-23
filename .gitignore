@@ -8,6 +8,7 @@ logs/
 
 #Secretos
 .env
+config.local
 
 #Sistema
 Thumb.db
